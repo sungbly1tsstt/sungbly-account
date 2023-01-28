@@ -1,2 +1,2 @@
 [item]
-num=0
+ban=true
