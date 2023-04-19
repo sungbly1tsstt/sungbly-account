@@ -1,2 +1,4 @@
+[item]
 ban=false
+[sts]
 stsrs=true
